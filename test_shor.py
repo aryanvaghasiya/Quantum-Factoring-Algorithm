@@ -21,7 +21,7 @@ def test_qft_dagger():
     assert circuit.num_qubits == 3
 
 def test_c_amod15_structure():
-    from shor import c_amod15
+    from shor_algo import c_amod15
     gate = c_amod15(7, 1)
     assert gate.num_ctrl_qubits == 1
     assert gate.num_qubits == 5
