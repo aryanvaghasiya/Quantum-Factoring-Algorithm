@@ -33,6 +33,8 @@ jobs:
 
     - name: Lint with flake8
       run: |
+        # Ensure flake8 is installed
+        python -m pip install flake8
         # Fail on syntax errors or undefined names
         flake8 . --count --select=E9,F63,F7,F82 --show-source --statistics
         # Allow warnings, check complexity and line length
