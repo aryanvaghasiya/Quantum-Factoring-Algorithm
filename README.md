@@ -69,7 +69,7 @@ Guessed Factors: 5 and 3
 ├── Shor_algo.ipynb       # Jupyter notebook with all code
 ├── Shor_algo.py          # Python code to run directly
 ├── README.md             # This file
-└── requirements.txt      # Optional: list of dependencies
+└── requirements.txt      # List of dependencies
 ```
 
 ## 🔍 References
