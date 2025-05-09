@@ -2,7 +2,7 @@
 
 This repository contains a simple yet complete implementation of **Shor's Algorithm**, a quantum algorithm for integer factorization that runs exponentially faster than the best known classical algorithms. This project simulates the algorithm using IBM's **Qiskit** framework and targets factoring of the number 15, a standard demonstration example.
 
-## 🔍 What is Shor's Algorithm?
+## 🔍 What is Shor's Algorithm? 
 
 Shor's Algorithm was proposed by mathematician Peter Shor in 1994 and is one of the most well-known quantum algorithms due to its theoretical ability to break widely used cryptographic schemes (like RSA) by factoring large integers in polynomial time.
 
