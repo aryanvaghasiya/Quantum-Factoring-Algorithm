@@ -3,3 +3,4 @@ qiskit-aer
 matplotlib
 numpy
 pandas
+pytest
