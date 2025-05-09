@@ -33,6 +33,7 @@ Make sure you have Python installed, then install the required dependencies:
 ```bash
 pip install qiskit qiskit-aer matplotlib numpy pandas
 
+```
 ## 🚀 How to Run
 
 You can run this project via Jupyter Notebook or directly in a Python environment. The key function that performs the order-finding is:
