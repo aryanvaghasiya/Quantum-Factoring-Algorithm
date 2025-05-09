@@ -50,7 +50,7 @@ To explore how the algorithm behaves with different inputs:
 a = 13  # Can be 2, 4, 7, 8, 11, or 13
 ```
 
-and rerun the simulation loop until a non-trivial factor is found.
+and rerun the simulation loop until a non-trivial factor is found. If you wish to understand how individual steps work, you can go to the jupyter notebook and run the steps one-by-one and understand them.
 
 ## 📊 Sample Output
 
