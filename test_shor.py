@@ -18,7 +18,7 @@ def test_phase_to_fraction():
 
 # Dummy QFT dagger test: just checks that the function runs and returns a circuit
 def test_qft_dagger():
-    from your_script_name import qft_dagger  # Update this import!
+    from shor_algo import qft_dagger  # Update this import!
     circuit = qft_dagger(3)
     assert circuit is not None
     assert circuit.num_qubits == 3
